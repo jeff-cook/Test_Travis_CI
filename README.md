@@ -8,3 +8,4 @@ This is a testing ground for building a Travis CI test.
 1. Flick the repository switch on in the Travis CI UI
 2. Add .travis.yml file to your repository
 3. Add a Rakefile for Ruby testing
+4. Find a project to use as a testing example.  (I choose GROK patterns) 
