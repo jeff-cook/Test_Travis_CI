@@ -21,5 +21,6 @@ while line = gets
     pp match.captures
   else
     puts "SORRY, no match!"
+    0
   end
 end
