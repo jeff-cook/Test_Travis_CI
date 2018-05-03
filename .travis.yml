@@ -1,0 +1,5 @@
+language: ruby
+rvm:
+  - 3.100
+  
+install: gem install rubygems grok-pure pp
