@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jeff-cook/Test_Travis_CI.svg?branch=master)](https://travis-ci.org/jeff-cook/Test_Travis_CI)
+Travis CI [![Build Status](https://travis-ci.org/jeff-cook/Test_Travis_CI.svg?branch=master)](https://travis-ci.org/jeff-cook/Test_Travis_CI)
 
 # Test_Travis_CI
 
