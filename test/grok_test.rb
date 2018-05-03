@@ -7,7 +7,9 @@ require "pp"
 grok = Grok.new
 # more patterns available: 
 # https://github.com/logstash-plugins/logstash-patterns-core/tree/master/patterns
+# Load all files in the ./patterns folder
 files = Dir["./patterns/*"]
+puts "Loading pattern files..."
 files.each do |file_name|
   if !File.directory? file_name
     puts file_name
