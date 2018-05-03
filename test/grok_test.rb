@@ -7,6 +7,7 @@ require "pp"
 grok = Grok.new
 # more patterns available: 
 # https://github.com/logstash-plugins/logstash-patterns-core/tree/master/patterns
+Dir["./patterns/*"]
 grok.add_patterns_from_file("patterns/grok-patterns")
 # enter your desired pattern below
 # example input that will match timestamp, 2016-05-25 09:01:02
