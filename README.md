@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jeff-cook/Test_Travis_CI.svg?branch=master)](https://travis-ci.org/jeff-cook/Test_Travis_CI)
+
 # Test_Travis_CI
 
 This is a testing ground for building a Travis CI test.
