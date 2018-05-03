@@ -23,3 +23,5 @@ This is a testing ground for building a Travis CI test.
 
    http://www.stuartellis.name/articles/rake/
   
+## Notes
+- The testing/build environment language doesn't need to be the project language.
