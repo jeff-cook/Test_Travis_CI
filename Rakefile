@@ -1,6 +1,6 @@
 
 desc "One line task description"
-task :name_of_task do
+task :default do
   # Your code goes here
   print "This is a test!"
   0
