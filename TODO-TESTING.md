@@ -5,3 +5,4 @@
 - Add logstash config file.
 - Load logstash to review the config file.
 - Use logstash to parse the patterns and run the filters.
+   
